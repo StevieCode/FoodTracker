@@ -1,3 +1,4 @@
+## About
 This simple iOS app is mostly made by me following an official Apple guide
 
 It helped me learn iOS developing, Git and Github
